@@ -6,6 +6,16 @@
   background-size: cover;
   position: relative;
 }
+@media (max-width: $tablet-width) {
+  .featured-posts{
+    height: 260px;
+  }
+}
+@media (max-width: $phone-width) {
+  .featured-posts{
+    height: 200px;
+  }
+}
 .featured-posts h2 {
   bottom: 0;
   margin: 0;
