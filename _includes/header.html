@@ -3,6 +3,7 @@
     <a href="{{ site.github.url }}/">{{ site.title }}</a>
   </h3>
   <nav class="menu-list">
+    <a href="{{ site.github.url }}/" class="menu-link">Anasayfa</a>
     {% for item in site.data.settings.menu %}
       <a href="{{ site.github.url }}/{{ item.folder }}/{{ item.file }}" class="menu-link">{{ item.name }}</a>
     {% endfor %}
