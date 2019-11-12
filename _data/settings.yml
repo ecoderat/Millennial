@@ -10,9 +10,9 @@ menu:
 - {name: 'Sinema', folder: 'pages', file: 'sinema.html'}
 - {name: 'Dizi', folder: 'pages', file: 'dizi.html'}
 - {name: 'Tiyatro', folder: 'pages', file: 'tiyatro.html'}
-- {name: "Bi'fikir", folder: 'pages', file: 'about.html'}
-- {name: 'Hakkımda', folder: 'pages', file: 'about.html'}
-- {name: 'İletişim', folder: 'pages', file: 'contact.html'}
+- {name: "Bi'fikir", folder: 'pages', file: 'bi-fikir.html'}
+- {name: 'Hakkımda', folder: 'pages', file: 'hakkimda.html'}
+- {name: 'İletişim', folder: 'pages', file: 'iletisim.html'}
 
 # Available social icons are powered by Font Awesome, so you can use any icon that they offer
 social:
